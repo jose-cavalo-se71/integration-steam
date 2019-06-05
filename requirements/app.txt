@@ -1,0 +1,4 @@
+requests-html==0.10.0
+galaxy.plugin.api==0.31
+vdf==3.0 ; sys_platform == 'darwin'
+pyobjc-framework-CoreServices==5.1.2; sys_platform == 'darwin'

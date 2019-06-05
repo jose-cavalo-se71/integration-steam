@@ -1,0 +1,5 @@
+-r app.txt
+invoke==1.2.0
+galaxy.conan==2.2.14
+cryptography==2.5
+pip-tools==3.6.0

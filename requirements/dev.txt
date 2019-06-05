@@ -1,0 +1,2 @@
+-r app.txt
+pip-tools==3.6.1
